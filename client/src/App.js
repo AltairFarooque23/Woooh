@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          hello this is the landing page
         </p>
     </div>
   );
