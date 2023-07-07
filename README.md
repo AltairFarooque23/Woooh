@@ -47,4 +47,4 @@ Enjoy the seamless experience of the car servicing 🏎️
 
 ### Snap-Shot
 
-![Woooh Landing Page (1)](https://github.com/AltairFarooque23/Woooh/assets/89061806/3b882f1d-79b6-4a3e-8cd2-412c62454ba8)
+![Woooh Landing Page](https://github.com/AltairFarooque23/Woooh/assets/89061806/b8516cc9-c792-451c-984a-c3fed65e480f)
