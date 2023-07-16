@@ -52,5 +52,17 @@ export const constants = {
             planbenefits : ["Transmission fluid change","Air conditioning system check","Exclusive offers and promotions" ,"20% discount on additional services"]
         }
 
+     },
+     footer : {
+        quickLink : ["Services",
+                        "Pricing",
+                        "Testimonials",
+                        "FAQ",
+                        "Careers"],
+        locations  : ["United Kingdom",
+                        "United States",
+                        "France",
+                        "India",
+                        "Rsussia"]
      }
 }

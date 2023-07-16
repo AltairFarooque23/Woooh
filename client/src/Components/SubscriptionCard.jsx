@@ -6,7 +6,7 @@ function SubscriptionCard({plan , others , price , benefits, cardId ,clicked ,ac
           clicked(cardId)
     }
   return (
-    <div className= {`w-[24vw] min-h-max ${cardId === active ? 'border-4 border-sky-500' :'border-2 border-slate-300'} rounded-xl shadow-lg flex flex-col items-center cursor-pointer hover:-translate-y-5 ease-in-out transition-transform duration-300`}
+    <div className= {`w-[24vw] min-h-max bg-white ${cardId === active ? 'border-4 border-sky-500' :'border-2 border-slate-300'} rounded-xl shadow-lg flex flex-col items-center cursor-pointer hover:-translate-y-5 ease-in-out transition-transform duration-300`}
          onClick={cardClicked}>
         <p className="text-2xl font-bold my-7">
             {plan}
